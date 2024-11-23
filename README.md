@@ -2,6 +2,8 @@
 
 This repository contains assignments and solutions from the Natural Language Processing course.
 
+## Assignments
+
 ### Assignment 1: minBERT
   - Find details about this assignment [here](https://github.com/sinaabbasi1/minbert-assignment-tnlp).
 
